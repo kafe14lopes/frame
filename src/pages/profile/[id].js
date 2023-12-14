@@ -1,4 +1,4 @@
-import styles from '../styles/Pages.module.css';
+import styles from '../../styles/Pages.module.css';
 import Head from 'next/head';
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
